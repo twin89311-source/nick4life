@@ -1,0 +1,84 @@
+{
+  "siteInfo": {
+    "title": "Nicholas Bella - Designer & Developer",
+    "name": "Nicholas Bella",
+    "bio": "Hello, I am Nicholas and I am a Designer/Developer. I specialize in Scripting, Modeling, GUI design, GFX designs, and graphic designs. My dream is to help people make their dreams come true through creative and technical excellence.",
+    "email": "nicholasbella300@gmail.com",
+    "tagline": "Designer & Developer | Scripting • Modeling • GUI • Graphics",
+    "heroTitle": "Welcome to My Portfolio",
+    "heroSubtitle": "Designer & Developer | Scripting • Modeling • GUI • Graphics"
+  },
+  
+  "services": [
+    {
+      "name": "Custom Scripting",
+      "description": "Custom scripts and automation solutions",
+      "price": 50,
+      "id": "scripting"
+    },
+    {
+      "name": "3D Modeling",
+      "description": "3D modeling and asset creation",
+      "price": 100,
+      "id": "modeling"
+    },
+    {
+      "name": "GUI Design",
+      "description": "User interface and experience design",
+      "price": 75,
+      "id": "gui"
+    },
+    {
+      "name": "Graphic Design",
+      "description": "GFX and graphic design services",
+      "price": 60,
+      "id": "graphics"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Scripting",
+      "description": "Custom scripts and automation solutions"
+    },
+    {
+      "name": "Modeling",
+      "description": "3D modeling and asset creation"
+    },
+    {
+      "name": "GUI Design",
+      "description": "User interface and experience design"
+    },
+    {
+      "name": "Graphics",
+      "description": "GFX and graphic design services"
+    }
+  ],
+
+  "tipJarAmounts": [5, 10, 20, 50],
+
+  "colors": {
+    "primary": "#6366f1",
+    "secondary": "#ec4899",
+    "darkBg": "#0f172a",
+    "lightBg": "#f1f5f9",
+    "textDark": "#1e293b",
+    "textLight": "#64748b"
+  },
+
+  "socialLinks": {
+    "email": "nicholasbella300@gmail.com",
+    "discord": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "github": ""
+  },
+
+  "commissionsDefault": true,
+
+  "customContent": {
+    "aboutExtra": "I love working on creative projects and helping clients bring their visions to life. With expertise in multiple design and development areas, I can handle projects from concept to completion.",
+    "footerText": "© 2024 Nicholas Bella. All rights reserved."
+  }
+}
